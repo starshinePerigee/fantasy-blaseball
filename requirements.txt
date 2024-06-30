@@ -1,0 +1,4 @@
+black
+pytest
+strawberry-graphql[debug-server]
+SQLAlchemy
